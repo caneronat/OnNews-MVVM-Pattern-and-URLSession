@@ -6,4 +6,4 @@ OnNews
 - URLSession
 - Swift
 - Kingfisher
--NewsApi
+- NewsApi
